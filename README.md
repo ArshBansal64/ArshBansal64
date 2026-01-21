@@ -6,3 +6,4 @@ Pinned below are:
 - A React social-media app with time-based "capsule" posts
 - A Unix-style shell written in C
 - An early-stage data platform combining LLMs with public datasets
+- A keyword analysis pipeline that tracks trends in SWE job descriptions
