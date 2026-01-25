@@ -51,4 +51,3 @@ Balances token usage and extraction quality through batch processing, normalizat
 ## Connect with Me
 **Email:** arshbansal2020@gmail.com  
 **LinkedIn:** https://linkedin.com/in/arsh-bansal1  
-**GitHub:** https://github.com/ArshBansal64  
