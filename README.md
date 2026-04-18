@@ -10,6 +10,21 @@ Interested in roles at the intersection of **frontend UX**, **backend systems**,
 
 ## Featured Projects
 
+### 🔹 [LeetLoop](https://github.com/ArshBansal64/LeetLoop) - Structured LeetCode Training System
+A personal LeetCode training system that transforms problem-solving into a **data-driven feedback loop**, tracking progress, weaknesses, and retention over time.
+
+Built to simulate real interview prep at scale, LeetLoop automates:
+- **Problem ingestion and categorization** across core patterns (sliding window, binary search, graphs, etc.)
+- **Spaced repetition scheduling** (short/mid/long-term review cycles)
+- **Progress snapshots and historical tracking** for consistency and accountability
+- **Performance analysis** to identify weak patterns and optimize study strategy
+
+Designed for long-term retention rather than brute-force grinding, enabling efficient preparation across **200+ solved problems**.
+
+**Tech Stack:** Python, Data Pipelines, Automation, CLI Tooling
+
+---
+
 ### 🔹 [DotAsset](https://github.com/ArshBansal64/DotAsset) - LLM-Constrained Financial Data Analysis
 A financial and demographic data analysis system that combines **probabilistic LLM reasoning** with **deterministic public APIs** to answer natural-language queries over U.S. Census data.  
 Uses GPT as a constrained decision layer to select valid variables, geographies, and years before executing verified data fetches, reducing malformed requests and unsafe outputs.  
