@@ -19,7 +19,7 @@ Built to simulate real interview prep at scale, LeetLoop automates:
 - **Progress snapshots and historical tracking** for consistency and accountability
 - **Performance analysis** to identify weak patterns and optimize study strategy
 
-Designed for long-term retention rather than brute-force grinding, enabling efficient preparation across **200+ solved problems**.
+Designed for long-term retention rather than brute-force grinding, enabling efficient preparation across **259+ solved problems**.
 
 **Tech Stack:** Python, Data Pipelines, Automation, CLI Tooling
 
