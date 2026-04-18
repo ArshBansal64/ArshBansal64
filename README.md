@@ -20,7 +20,7 @@ Built to simulate real interview prep at scale, LeetLoop automates:
 - **Progress snapshots and historical tracking** for consistency and accountability
 - **Performance analysis** to identify weak patterns and optimize study strategy
 
-Designed for long-term retention rather than brute-force grinding, enabling efficient preparation across **259+ solved problems**.
+Designed for long-term retention rather than brute-force grinding, enabling efficient preparation across **259+ solved problems spanning core interview patterns**.
 
 **Tech Stack:** Python, Data Pipelines, Automation, CLI Tooling
 
@@ -61,6 +61,13 @@ Balances token usage and extraction quality through batch processing, normalizat
 **Frontend:** React, Angular, HTML, CSS  
 **AI / LLMs:** Prompt Engineering, Schema-Constrained Generation, NLP Pipelines  
 **Data & Tools:** Pandas, R, Git, Docker, Firebase, CI/CD  
+
+---
+
+## Currently Building
+
+* Expanding LeetLoop with smarter pattern detection and adaptive scheduling
+* Extending DotAsset to support additional public datasets beyond Census
 
 ---
 
