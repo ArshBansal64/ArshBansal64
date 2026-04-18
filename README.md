@@ -3,7 +3,9 @@
 **Software Engineer** at **Meta**, contracted through **TEKsystems**  
 **Application Security Intern (Full Stack / Security Automation)** - previously at **Nelnet**  
 **B.S. in Computer Science & Data Science** at the **University of Wisconsin–Madison**  
-Focused on **full-stack systems**, **LLM-driven data pipelines**, and **improving the developer/user experience**, with an emphasis on building production-ready tools that balance correctness, performance, and usability.
+
+I build **systems-oriented tools** across frontend, backend, and LLM-assisted workflows, with a focus on turning problems into clean pipelines.
+I’m particularly interested in **developer tooling, scalable cloud computing, and applied AI workflows** where impact to the end user matters.
 
 ---
 
